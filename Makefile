@@ -6,7 +6,7 @@ main: main.o functions.o
 main.o: main.c 
 	gcc -c main.c -o main.o
 
-functions.o : functions.c str.h 
+functions.o : functions.c 
 	gcc -c functions.c -o functions.o 
 
 clean:
