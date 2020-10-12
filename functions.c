@@ -1,6 +1,6 @@
-#include<math.h>
-#include"str.h"
-#include<stdio.h>
+#include <math.h>
+#include "compex.h"
+#include <stdio.h>
 void bubbleSort(float array[], int size) {
 
 int step;
