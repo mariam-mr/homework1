@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include"str.h"
-#include<math.h>
+#include <stdio.h>
+#include "complex.h"
+#include <math.h>
 int main() {
 int n;
 scanf("%d",&n);
