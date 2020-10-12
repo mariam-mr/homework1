@@ -4,7 +4,7 @@
 int main() {
 int n;
 scanf("%d",&n);
-complex arr[] = 1000;
+complex arr[1000];
 float value[n];
 unsigned int i;
 for( i = 0; i < n; ++i ){
